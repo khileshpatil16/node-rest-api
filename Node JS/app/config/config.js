@@ -1,5 +1,5 @@
  module.exports = {
- 	name: 'society',
+ 	name: 'user',
  	hostname: 'http://localhost',
  	version: '0.0.1',
  	port: 3002,
